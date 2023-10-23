@@ -364,8 +364,6 @@ for (int i = 1 ; i <= MAX_GENERATION ; i++) {
 可以看到大部分都是 1 ，會出現 0 的是因為有變異，啊我懶得把它挑出來。
 
 ![](https://hackmd.io/_uploads/H1aYZnNR3.png)
-:::
-
 
 ...
 

@@ -365,7 +365,6 @@ for (int i = 1 ; i <= MAX_GENERATION ; i++) {
 
 ![](https://hackmd.io/_uploads/H1aYZnNR3.png)
 
-...
 
 ## 聯絡作者
 
@@ -374,4 +373,3 @@ for (int i = 1 ; i <= MAX_GENERATION ; i++) {
 - [Blog](https://hackmd.io/@HIPP0/notebook)
 - [Facebook](https://www.facebook.com/profile.php?id=100008989923059)
 - [Discord] 河馬#9738
-...

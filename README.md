@@ -1,5 +1,3 @@
-{%hackmd /@hipp0/Hippotumuxthem %}
-
 > 本專案目的為使用 GA 遺傳演算法來解決 onemax 問題
 
 # <center> Genetic Algorithm (遺傳演算法)  </center>
